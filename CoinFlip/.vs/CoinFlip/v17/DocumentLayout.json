@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\viewmodels\\coinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\viewmodels\\coinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\view\\coinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\view\\coinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|f:\\pifadozan\\pam-i\\meus projetos\\coinflip\\coinflip\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FA9BA33-2C9E-4A09-B59A-E2EBD11F0106}|CoinFlip\\CoinFlip.csproj|solutionrelative:coinflip\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinViewModel.cs",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\ViewModels\\CoinViewModel.cs",
+              "RelativeDocumentMoniker": "CoinFlip\\ViewModels\\CoinViewModel.cs",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\ViewModels\\CoinViewModel.cs",
+              "RelativeToolTip": "CoinFlip\\ViewModels\\CoinViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:59:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\Models\\Coin.cs",
+              "RelativeDocumentMoniker": "CoinFlip\\Models\\Coin.cs",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\Models\\Coin.cs",
+              "RelativeToolTip": "CoinFlip\\Models\\Coin.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:59:17.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoinView.xaml",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\View\\CoinView.xaml",
+              "RelativeDocumentMoniker": "CoinFlip\\View\\CoinView.xaml",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\View\\CoinView.xaml",
+              "RelativeToolTip": "CoinFlip\\View\\CoinView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T18:59:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CoinFlip\\App.xaml.cs",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\App.xaml.cs",
+              "RelativeToolTip": "CoinFlip\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:59:17.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "CoinFlip\\AppShell.xaml.cs",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\AppShell.xaml.cs",
+              "RelativeToolTip": "CoinFlip\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:59:17.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CoinFlip\\MainPage.xaml.cs",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\MainPage.xaml.cs",
+              "RelativeToolTip": "CoinFlip\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:59:17.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CoinFlip\\MainPage.xaml",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\MainPage.xaml",
+              "RelativeToolTip": "CoinFlip\\MainPage.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T18:59:17.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CoinFlip\\AppShell.xaml",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\meus projetos\\CoinFlip\\CoinFlip\\AppShell.xaml",
+              "RelativeToolTip": "CoinFlip\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T18:59:17.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
